@@ -1,1 +1,0 @@
-# poc-fullstack-java-react
