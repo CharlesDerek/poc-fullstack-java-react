@@ -1,4 +1,4 @@
-# POC Full Stack Java and React Stack
+# POC Full Stack Java (openjdk:11), Node (14+), React Stack (18+)
 
 ## Table of Contents
 
