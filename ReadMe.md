@@ -1,4 +1,4 @@
-# MVP Full Stack Java and React Stack
+# POC Full Stack Java and React Stack
 
 ## Table of Contents
 
@@ -274,10 +274,10 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For questions or suggestions, please contact:
+For questions or suggestions, please contact me by:
 
 - Charles Derek
-- charlesderek@mrginnovations.com
-- LinkedIn: [\[Profile URL\]](https://www.linkedin.com/in/charlesderek/)
+- [\[Email\]](mailto:charlesderek@mrginnovations.com?subject=In%20regards%20to%20the%20POC%20Full%20Stack%20Java%20and%20React%20Stack%20Docker%20application%20I%20found%20on%20Github)
+- [\[LinkedIn\]](https://www.linkedin.com/in/charlesderek/)
 
 By following this guide, you should be able to set up and run the application even if you're new to Java and React.
