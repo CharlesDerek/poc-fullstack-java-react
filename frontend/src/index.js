@@ -1,11 +1,13 @@
-import React from 'react';
-
 function App() {
   return (
     <div>
-      <h1>Hello, World!</h1>
+      <Typography variant="h4" component="h1" gutterBottom>
+        Hello, Material UI!
+      </Typography>
+      <Button variant="contained" color="primary">
+        Click Me
+      </Button>
     </div>
   );
 }
-
 export default App;
